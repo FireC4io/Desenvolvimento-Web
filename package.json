@@ -1,0 +1,26 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "Aula de Fixação",
+  "keywords": [
+    "DevWeb3"
+  ],
+  "homepage": "https://github.com/FireC4io/firecaio#readme",
+  "bugs": {
+    "url": "https://github.com/FireC4io/firecaio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireC4io/firecaio.git"
+  },
+  "license": "ISC",
+  "author": "Caio Cesar Martins de Lima",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express --save -dev"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
